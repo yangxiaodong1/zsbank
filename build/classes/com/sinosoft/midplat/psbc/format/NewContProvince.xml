@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="GBK"?>
+<Province>
+	<code outcode="1100">110000</code><!-- 北京 -->
+	<code outcode="1200">120000</code><!-- 天津 -->
+	<code outcode="1300">130000</code><!-- 河北 -->
+	<code outcode="1400">140000</code><!-- 山西 -->
+	<code outcode="1500">150000</code><!-- 内蒙 -->
+	<code outcode="2100">210000</code><!-- 辽宁 -->
+	<code outcode="2200">220000</code><!-- 吉林 -->
+	<code outcode="2300">230000</code><!-- 黑龙江 -->
+	<code outcode="3100">310000</code><!-- 上海 -->
+	<code outcode="3200">320000</code><!-- 江苏 -->
+	<code outcode="3300">330000</code><!-- 浙江 -->
+	<code outcode="3400">340000</code><!-- 安徽 -->
+	<code outcode="3500">350000</code><!-- 福建 -->
+	<code outcode="3600">360000</code><!-- 江西 -->
+	<code outcode="3700">370000</code><!-- 山东 -->
+	<code outcode="4100">410000</code><!-- 河南 -->
+	<code outcode="4200">420000</code><!-- 湖北 -->
+	<code outcode="4300">430000</code><!-- 湖南 -->
+	<code outcode="4400">440000</code><!-- 广东 -->
+	<code outcode="4500">450000</code><!-- 广西 -->
+	<code outcode="4600">460000</code><!-- 海南 -->
+	<code outcode="5000">500000</code><!-- 重庆 -->
+	<code outcode="5100">510000</code><!-- 四川 -->
+	<code outcode="5200">520000</code><!-- 贵州 -->
+	<code outcode="5300">530000</code><!-- 云南 -->
+	<code outcode="5400">540000</code><!-- 西藏 -->
+	<code outcode="6100">610000</code><!-- 陕西 -->
+	<code outcode="6200">620000</code><!-- 甘肃 -->
+	<code outcode="6300">630000</code><!-- 青海 -->
+	<code outcode="6400">640000</code><!-- 宁夏 -->
+	<code outcode="6500">650000</code><!-- 新疆 -->
+	
+</Province>
+
